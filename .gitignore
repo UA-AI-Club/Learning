@@ -1,0 +1,5 @@
+# Unessecary Data
+images*
+
+# Internal
+.ipynb_checkpoints
