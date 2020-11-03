@@ -23,8 +23,28 @@ For a better understanding of the Python implementation, we're hoping to get a b
 
 </br>
 
+## Topic List
+
+### K-means Clustering (10/20/20)
+
+***Coming Soon!~***
+
+### Supervised Learning 
+
+Multi-part series on Supervised learning models for prediction, classification, and regression on **labeled samples**.
+
+#### Linear Regression (11/03/20)
+
+
+#### Feed-Forward Supervised Models
+
+
+---
+
+</br>
+
 ## Contact
 
-**Slack:**  
+**Slack:** [uaaiclub.slack.com](uaaiclub.slack.com)
 
-**Email:**
+**Email:** shgregory@crimson.ua.edu
