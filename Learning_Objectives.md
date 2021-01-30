@@ -46,7 +46,7 @@ Members will work through **three solutions each month** focused on a specific s
 
 ## **Progression Schedule:**
 
-Each month will cover a subfeild of AI, and end with a related competition. These fields are subject to change, and open to reccomendation.
+Each month will cover a subfield of AI, and end with a related competition. These fields are subject to change, and open to reccomendation.
 
 </br>
 
@@ -58,6 +58,8 @@ Each month will cover a subfeild of AI, and end with a related competition. Thes
         - EfficientNet (High Performance) [**Github Notebook**](https://github.com/lukemelas/EfficientNet-PyTorch)
 
 2. Session 1.2 (`02-09`): **Semantic Segmentation**
+    - Notebooks:
+        - [Deep Learning Based Semantic Segmentation](https://www.kaggle.com/bulentsiyah/deep-learning-based-semantic-segmentation-keras)
     - Models:
         - FCN: [**Github Notebook**](https://github.com/Gurupradeep/FCN-for-Semantic-Segmentation)
     - Datasets:
