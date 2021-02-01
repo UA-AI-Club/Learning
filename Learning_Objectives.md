@@ -52,28 +52,26 @@ Each month will cover a subfield of AI, and end with a related competition. Thes
 
 ### February: Computer Vision
 1. Session 1.1 (`02-02`): **Image Classification** 
-    - MNIST Handwritten Digit Dataset ([Kaggle](https://www.kaggle.com/c/digit-recognizer))
-    - MNIST Fashion Dataset ([Kaggle](https://www.kaggle.com/zalando-research/fashionmnist))
-    - Models:
-        - EfficientNet (High Performance) [**Github Notebook**](https://github.com/lukemelas/EfficientNet-PyTorch)
-
+    - Dataset:
+        - [**MNIST Handwritten Digits**](https://www.kaggle.com/c/digit-recognizer)
+    - Notebook:
+        - [**Simple Introduction to CNN for MNIST in Keras**](https://www.kaggle.com/gpreda/simple-introduction-to-cnn-for-mnist-99-37#Read-the-data)
 2. Session 1.2 (`02-09`): **Semantic Segmentation**
-    - Notebooks:
-        - [Deep Learning Based Semantic Segmentation](https://www.kaggle.com/bulentsiyah/deep-learning-based-semantic-segmentation-keras)
-    - Models:
-        - FCN: [**Github Notebook**](https://github.com/Gurupradeep/FCN-for-Semantic-Segmentation)
-    - Datasets:
-        - [**Oxford-IIIT Pet Dataset**](https://www.robots.ox.ac.uk/~vgg/data/pets/)
+    - Dataset:
+        - [**Aerial Semantic Segmentation Drone Dataset**](https://www.kaggle.com/bulentsiyah/semantic-drone-dataset)
+    - Notebook:
+        - [**Deep Learning Based Semantic Segmentation**](https://www.kaggle.com/bulentsiyah/deep-learning-based-semantic-segmentation-keras)
 3. Session 1.3 (`02-16`): **Object Detection**
     - YOLO Image Object Detection with Tensorflow: [**Github Notebook**](https://github.com/shahkaran76/yolo_v3-tensorflow-ipynb)
     - EfficientDet
-4. Competition Week 1 (`02-23`): 
+4. Competition Week 1 (`02-23`): **Computer Vision Competition (TBD)**
 
 </br>
 
 ### March: Data Science
 1. Session 2.1 (`03-02`): **Profile Analysis and Classification**:
-    - Titanic Dataset ([Kaggle](https://www.kaggle.com/c/titanic))
+    - Dataset:
+        - [**Titanic Survivor Set**](https://www.kaggle.com/c/titanic)
 2. Session 2.2 (`03-09`): **Graph Neural Networks**
 3. Session 2.3 (`03-16`): **Auto-Encoders and Latent Space**
     - Note: Classes off March 15th
@@ -84,4 +82,4 @@ Each month will cover a subfield of AI, and end with a related competition. Thes
 ### April: Natural Language Processing
 1. Session 3.1 (`04-06`): **LSTM/GRU Models**
 2. Session 3.2 (`04-13`): **Transformer Architecture**
-3. Competition Week 3 (`04-20`): 
+3. Competition Week 3 (`04-20`): **NLP Competition**
