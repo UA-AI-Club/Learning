@@ -6,7 +6,7 @@
 
 ## Preface
 
-Image classification is a subfield of Computer Vision where our networks take complete images and produce scalar values corresponding to the data within the image. The important point here is that classification deals with only one value per image sample. 
+Image classification is a subfeild of Computer Vision where our networks take complete images and produce scalar values corresponding to the data within the image. The important point here is that classification deals with only one value per image sample. 
 
 ## Notebook and Data
 
