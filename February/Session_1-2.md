@@ -6,7 +6,7 @@
 
 ## Preface
 
-Semantic Segmentation uses computer vision architecture to classify individual features, or segments, in an image by assigning class labels to every pixel in the input raster image. Segmentation models frequently use the same convolutional kernels seen in the previous classification models, but in an hourglass-like architecture. The input half of the hourglass compresses (encodes) the data in our image, and the latter half mirrors its structure to extract (decode) the learned features. This has openend up a wide set of contemporary machine learning solutions ranging from autonomous vehicles, to biomedical imaging, and geospatial data analysis (see resources). The notebook we've picked for semantic segmentation works with aerial imagery for autonomous drone navigation. Please enjoy!
+Semantic Segmentation uses computer vision architecture to classify individual features, or segments, in an image by assigning class labels to every pixel in the input raster image. Segmentation models frequently use the same convolutional kernels seen in the previous classification models, but in an hourglass-like architecture. The input half of the hourglass compresses (encodes) the data in our image, and the latter half mirrors its structure to extract (decode) the learned features. This has opened up a wide set of contemporary machine learning solutions ranging from autonomous vehicles, to biomedical imaging, and geospatial data analysis (see resources). The notebook we've picked for semantic segmentation works with aerial imagery for autonomous drone navigation. Please enjoy!
 
 
 ## Notebook and Data
