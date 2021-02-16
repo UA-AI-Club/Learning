@@ -1,4 +1,4 @@
-# Session 1.2 - Semantic Segmentation (02/09/21)
+# Session 1.3 - Neural Style Transfer (02/09/21)
 
 ### February - Computer Vision 
 
@@ -27,8 +27,9 @@ This process produces downright astonishing results. Check out the notebook belo
     - TensorFlow - [*Neural Style Transfer: Creating Art with Deep Learning*](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
     - [Neural Style Transfer - Wikipedia](https://en.wikipedia.org/wiki/Neural_Style_Transfer)
     - [Pytorch - Neural Style Transfer using PyTorch](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html)
-    - Tutorials:
+    - Videos:
         - [Andrew Ng Tutorial Series](https://youtube.com/playlist?list=PLO3wjWsJ4jjzv8-6SsVyU2cPB8GgUIb5o)
+        - [Two Minute Papers: Universal Neural Style Transfer](https://www.youtube.com/watch?v=v1oWke0Qf1E&t=169s)
 - **Neural Style Transfer Papers**:
     - [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576.pdf)
     - [Universal Style Transfer via Feature Transforms](https://arxiv.org/abs/1705.08086)
