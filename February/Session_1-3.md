@@ -17,9 +17,15 @@ This process produces downright astonishing results. Check out the notebook belo
 
 ## Notebook and Data
 
-- Notebook: [**Neural Style Transfer | Keras**](https://www.tensorflow.org/tutorials/generative/style_transfer)
-- Author: [**Google Research / TensorFlow**](https://research.google/)
-- Dataset: [**BYOD (Bring your own Dataset)**]
+- Feb. 16, 2020 Meeting
+    - Notebook: [**Neural Style Transfer | Keras**](https://www.kaggle.com/stephengregory/ai-club-nst)
+    - Author: [**Stephen Gregory / TensorFlow**](https://research.google/)
+    - Dataset: [**Proprietary NST Dataset**](https://www.kaggle.com/stephengregory/nst-images)
+
+- Post-Meeting
+    - Notebook: [**Neural Style Transfer | Keras**](https://www.tensorflow.org/tutorials/generative/style_transfer)
+    - Author: [**Google Research / TensorFlow**](https://research.google/)
+    - Dataset: [**BYOD (Bring your own Dataset)**]
 
 
 ## Resources
@@ -30,6 +36,8 @@ This process produces downright astonishing results. Check out the notebook belo
     - Videos:
         - [Andrew Ng Tutorial Series](https://youtube.com/playlist?list=PLO3wjWsJ4jjzv8-6SsVyU2cPB8GgUIb5o)
         - [Two Minute Papers: Universal Neural Style Transfer](https://www.youtube.com/watch?v=v1oWke0Qf1E&t=169s)
+        - [Two Minute Papers: 3D Style Transfer for Videos is Now Possible!](https://www.youtube.com/watch?v=fcnjHmBcLNQ)
+        - [Two Minute Papers: AI-Based Style Transfer For Video…Now in Real Time!](https://www.youtube.com/watch?v=UiEaWkf3r9A&t=206s)
 - **Neural Style Transfer Papers**:
     - [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576.pdf)
     - [Universal Style Transfer via Feature Transforms](https://arxiv.org/abs/1705.08086)
