@@ -1,4 +1,4 @@
-# Session 1.3 - Neural Style Transfer (02/09/21)
+# Session 1.3 - Neural Style Transfer (02/16/21)
 
 ### February - Computer Vision 
 
