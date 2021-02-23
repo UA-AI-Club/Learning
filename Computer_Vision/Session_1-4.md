@@ -15,11 +15,8 @@ How does a computer find the location of objects in an image? Where do we tell o
     
 Back in the spring of 2016, the University of Washington colaborated with Facebook's AI Research team to present the YOLO object detection system to enable accurate reigion proposals in real time. This algorithm creates a grid of cells over an input image, each of which are evaluated on their probability of containing the **center point** of an object, rather than evaluating if the entire object is contained in the cell (as a classification model might). For each cell, the algorithm generates a few candidate bounding boxes for the object it may be centered over, and selects whichever polygon is most likely to contain our target image. 
 
-## Combining Components
 
-YOLO identifies these obejcts really fast, and can simultainously provide the reigons in which objects appear with the classes they represent at up to 140 FPS (depending on the architecture). 
-
-There have been a number of iterations on the YOLO algorithm, but today we're focusing on how we can apply the latest (and somewhat controversial) YOLOv5 to almost any dataset. 
+YOLO identifies these obejcts really fast, and can simultainously provide the classes that each of the defined reigons represent ***at up to 140 FPS*** (depending on the architecture). There have been a number of iterations on the YOLO algorithm, but today we're focusing on how we can apply the latest (and somewhat controversial) YOLOv5 to almost any dataset. 
 
 
 This concept is a big jump! These descriptions may appear vague (they are), but this is because the underlying math could easily take up an entire month of lessons. Note that there are a number of algorithms to approach object detection, and we've only touched the tip of an iceberg. 
